@@ -1,0 +1,14 @@
+html {
+    font-size: 62.5%;
+}
+
+.table-toolbar {
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    margin: 50px auto;
+}
+
+.inner-right > button {
+    width: 15rem;
+}
